@@ -1057,7 +1057,7 @@
                     }
                 },
                 {
-                    "key": "ELEMENTS|ELEMENTS 1",
+                    "key": "MODAL VOICE|MODAL VOICE 1",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -1650,7 +1650,7 @@
                     }
                 },
                 {
-                    "key": "ELEMENTS|ELEMENTS 2",
+                    "key": "MODAL VOICE|MODAL VOICE 2",
                     "value": {
                         "version": 4,
                         "actions": [],
@@ -2775,7 +2775,7 @@
         "tabs": [
             {
                 "version": 3,
-                "tabName": "ELEMENTS 1",
+                "tabName": "MODAL VOICE 1",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 0,
                 "qlinkBoundsData": [
@@ -2784,13 +2784,13 @@
                     "822 130 425 152",
                     "367 408 743 152"
                 ],
-                "componentName": "ELEMENTS|ELEMENTS 1",
+                "componentName": "MODAL VOICE|MODAL VOICE 1",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             },
             {
                 "version": 3,
-                "tabName": "ELEMENTS 2",
+                "tabName": "MODAL VOICE 2",
                 "fnKeyIndex": 0,
                 "fnKeySubIndex": 1,
                 "qlinkBoundsData": [
@@ -2798,7 +2798,7 @@
                     "198 382 96 154",
                     "1119 410 142 152"
                 ],
-                "componentName": "ELEMENTS|ELEMENTS 2",
+                "componentName": "MODAL VOICE|MODAL VOICE 2",
                 "initialSize": "0 0 1280 628",
                 "scale": 1.0
             },
